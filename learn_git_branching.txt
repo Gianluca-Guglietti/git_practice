@@ -1,2 +1,5 @@
+
 learning git with ellen is fun 
-learning git is fun especially with Ellen and everyone else in the lab
+
+Learning git is fun especially with Ellen! Also, knowing git branching is very useful but be careful when merging the changes to the main branch. 
+
