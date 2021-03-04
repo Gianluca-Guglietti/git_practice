@@ -1,1 +1,1 @@
-learning git with ellen is fun 
+Learning git is fun especially with Ellen! Also, knowing git branching is very useful but be careful when merging the changes to the main branch. 
